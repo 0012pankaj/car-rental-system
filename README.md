@@ -10,8 +10,6 @@ Welcome to the Car Rental System project! This Java-based system integrates Data
 <img width="960" alt="crs3" src="https://github.com/0012pankaj/car-rental-system/assets/103897354/7974cb1c-7d0e-41f2-a45e-3fc93d4a4bc3">
 
 
-Welcome to the Car Rental System project! This Java-based system integrates Data Structures, Algorithms, and Object-Oriented Programming principles to streamline the car rental process.
-
 ## Features:
 - Efficient data management using various data structures and algorithms.
 - Object-oriented design for modularity, scalability, and maintainability.
